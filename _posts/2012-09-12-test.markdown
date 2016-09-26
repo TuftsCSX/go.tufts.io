@@ -1,0 +1,6 @@
+---
+layout: links
+permalink: /test
+forward-to: www.google.com
+---
+asdfasdf
