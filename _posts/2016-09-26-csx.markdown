@@ -1,0 +1,5 @@
+---
+layout: links
+permalink: /:title
+forward-to: www.tuftscsx.com
+---
