@@ -1,5 +1,5 @@
 ---
 layout: links
 permalink: /:title
-forward-to: www.tuftscsx.com
+forward_to: www.tuftscsx.com
 ---
