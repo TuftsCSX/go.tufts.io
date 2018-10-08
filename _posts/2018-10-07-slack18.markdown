@@ -1,0 +1,9 @@
+---
+layout: links
+permalink: /:title
+forward_to: https://join.slack.com/t/polyhack2018/shared_invite/enQtNDUwOTM1ODY4Mzg4LWE0YjkzZGYxN2ZjYmM0MGM5YTU5NWQ5ZDE1YWRhNmNhZGNiY2EyZmNkMTM2NzIzYjJlZTVmYmNkOWIyZGYzYTY
+author: margaret.gorguissian@tufts.edu
+hidden: true
+project: false
+description: "polyhack18 slack link"
+---
